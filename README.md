@@ -5,6 +5,7 @@
   ## Table of Contents: 
   ### * [License](#license)
   ### * [Installation](#installation)
+  ### * [Screenshot](#screenshot)
   ### * [Usage](#usage)
   ### * [Languages](#languages)
   ### * [Contributors](#contributors)
@@ -21,6 +22,9 @@
 
   ## Usage: 
   ### To use the project type an event into the text area that's highlighted grey, red or green which indicates depending on the color if the event is on time, past due date or about to happen. Then hit save when your event has been created to save your event.
+  
+  ## Screenshot
+![image](https://user-images.githubusercontent.com/99767019/171983259-5a8824e9-0241-4ead-b3aa-4d09fc971903.png)
   
   ### Languages:
   - Javascript
@@ -41,4 +45,3 @@
   ### GitHub: https://github.com/tydomx
   ### or
   ### Email: michaelthai16@gmail.com
-
