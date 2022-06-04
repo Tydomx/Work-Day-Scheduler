@@ -10,6 +10,10 @@
   ### * [Contributors](#contributors)
   ### * [Tests](#tests)
   ### * [Questions](#questions)
+  
+  ## Links: 
+  To Scheduler: 
+  Github: https://github.com/Tydomx/Work-Day-Scheduler
 
   ## Installation:
   ### You must install the following for this app to function:
