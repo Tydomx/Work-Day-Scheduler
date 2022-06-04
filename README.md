@@ -6,7 +6,7 @@
   ### * [License](#license)
   ### * [Installation](#installation)
   ### * [Usage](#usage)
-  ### * [Languages](#language)
+  ### * [Languages](#languages)
   ### * [Contributors](#contributors)
   ### * [Tests](#tests)
   ### * [Questions](#questions)
