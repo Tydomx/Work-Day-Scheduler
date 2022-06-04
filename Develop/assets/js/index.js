@@ -21,6 +21,7 @@ var hour05 = $('#5:00pm');
 $('#currentDay').text(currentDay);
 
 
+
 // uses local storage to store event set into calendar, using Id from HTML
 function workScheduleEvents() {
     var event9 = JSON.parse(localStorage.getItem('9:00 am'));
