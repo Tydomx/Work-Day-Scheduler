@@ -12,8 +12,8 @@
   ### * [Questions](#questions)
   
   ## Links: 
-  To Scheduler: https://tydomx.github.io/Work-Day-Scheduler/
-  Github: https://github.com/Tydomx/Work-Day-Scheduler
+  - To Scheduler: https://tydomx.github.io/Work-Day-Scheduler/
+  - Github: https://github.com/Tydomx/Work-Day-Scheduler
 
   ## Installation:
   ### You must install the following for this app to function:
